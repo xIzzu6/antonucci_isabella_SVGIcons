@@ -1,0 +1,330 @@
+.hidden
+{
+	display: none;
+}
+
+#mainLogo
+{
+	margin: 0 auto;
+	color: #ffffff;
+}
+
+#logo
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	height: 20px;
+	background: rgb(129,98,73);
+  background: linear-gradient(90deg, rgba(129,98,73,1) 0%, rgba(70,31,1,1) 100%);
+}
+
+#container
+{
+	margin: 0 auto;
+}
+
+#mainNav
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	height: 150px;
+	background: rgb(129,98,73);
+  background: linear-gradient(90deg, rgba(129,98,73,1) 0%, rgba(70,31,1,1) 100%);
+}
+
+#mainNav ul
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#mainNav ul li
+{
+	margin-top: 60px;
+}
+
+#mainNav ul li a
+{
+	color: #179122;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 20px;
+	border-radius: 30px;
+	transition: all .5s ease-in-out;
+}
+
+#mainNav ul li a:hover
+{
+	background-color: #179122;
+	color: #0f5e16;
+}
+
+.wrapper
+{
+	display: flex;
+	flex-direction: row;
+	flex-flow: column wrap;
+	margin: 0 auto;
+	color: #fff;
+	width: 10%;
+	/* display: inline-block; */
+}
+
+.wrapper > img
+{
+
+}
+
+#plant1_leaves
+{
+	cursor: pointer;
+}
+
+#plant1_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant_1_pot
+{
+	cursor: pointer;
+}
+
+#plant_1_pot:hover
+{
+	fill: #73b36d !important;
+}
+
+
+#plant2_leaves
+{
+	cursor: pointer;
+}
+
+#plant2_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant2_pot
+{
+	cursor: pointer;
+}
+
+#plant2_pot:hover
+{
+	fill: #ed9842 !important;
+}
+
+
+#plant3_leaves
+{
+	cursor: pointer;
+}
+
+#plant3_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant3_pot_
+{
+	cursor: pointer;
+}
+
+#plant3_pot_:hover
+{
+	fill: #fafc58 !important;
+}
+
+
+#plant4_leaves
+{
+	cursor: pointer;
+}
+
+#plant4_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant4_leaves
+{
+	cursor: pointer;
+}
+
+#plant4_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant4_pot
+{
+	cursor: pointer;
+}
+
+#plant4_pot:hover
+{
+	fill: #125204 !important;
+}
+
+
+#plant5_leaves
+{
+	cursor: pointer;
+}
+
+#plant5_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant5_pot
+{
+	cursor: pointer;
+}
+
+#plant5_pot:hover
+{
+	fill: #58a199 !important;
+}
+
+
+#plant6_leaves
+{
+	cursor: pointer;
+}
+
+#plant6_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant6_pot
+{
+	cursor: pointer;
+}
+
+#plant6_pot:hover
+{
+	fill: #8656b3 !important;
+}
+
+
+#plant7_leaves
+{
+	cursor: pointer;
+}
+
+#plant7_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant7_pot
+{
+	cursor: pointer;
+}
+
+#plant7_pot:hover
+{
+	fill: #e077e0 !important;
+}
+
+
+#plant8_leaves
+{
+	cursor: pointer;
+}
+
+#plant8_leaves:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant8_leaves
+{
+	cursor: pointer;
+}
+
+#plant8_branch:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant8_branch
+{
+	cursor: pointer;
+}
+
+#plant8_pot:hover
+{
+	fill: #4a3823 !important;
+}
+
+
+#plant9_flowers
+{
+	cursor: pointer;
+}
+
+#plant9_flowers:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant9_pot
+{
+	cursor: pointer;
+}
+
+#plant9_pot:hover
+{
+	fill: #7d7164 !important;
+}
+
+
+.cls-2
+{
+	cursor: pointer;
+}
+
+.cls-2:hover
+{
+	fill: #73b36d !important;
+}
+
+#plant10_pot
+{
+	cursor: pointer;
+}
+
+#plant10_pot:hover
+{
+	fill: #807c79 !important;
+}
+
+
+#mainFooter
+{
+	margin: 0 auto;
+	color: #ffffff;
+}
+
+#footer
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 50px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	height: 100px;
+	background: rgb(129,98,73);
+  background: linear-gradient(90deg, rgba(129,98,73,1) 0%, rgba(70,31,1,1) 100%);
+}
